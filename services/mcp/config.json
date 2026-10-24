@@ -10,7 +10,7 @@
           "Authorization:${VEXA_API_KEY}"
         ],
         "env": {
-          "VEXA_API_KEY": "AgJpnjTjOfpcqCHdGu2E1qDh6sYOxe7EAdOZkGuc"
+          "VEXA_API_KEY": "REPLACE_WITH_VEXA_API_KEY"
         }
       }
     }

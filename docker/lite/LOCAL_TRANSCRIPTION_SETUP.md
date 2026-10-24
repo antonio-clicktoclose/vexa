@@ -12,7 +12,7 @@ Edit `.env`:
 MODEL_SIZE=large-v3-turbo
 DEVICE=cuda
 COMPUTE_TYPE=int8
-API_TOKEN=cczM1VUk7FXaw6EwMrwMVdTwhqIiYAdmFVvUG1uF
+API_TOKEN=<redacted: load from 1Password>
 ```
 
 Start service:
